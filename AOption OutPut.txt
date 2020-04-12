@@ -1,0 +1,25 @@
+List will be printed from front to rear
+95 62 57 33 85  
+ List will be printed from rear to front
+85 33 57 62 95 
+ List after deleting 57. 
+95 62 33 85  
+ List after deleting 33. 
+95 62 85  
+ List after deleting 62. 
+95 85  
+ List after deleting 95. 
+22 85  
+ 
+Processing Cars now. 
+The number of items in this listof cars are 5
+ Chevy  with 3 doors   Ford  with 2 doors   Ford  with 4 doors   GMC  with 2 doors   RAM  with 2 doors   
+The number of items in this listare 5
+ Chevy  with 3 doors   Ford  with 2 doors   Ford  with 4 doors   GMC  with 2 doors   RAM  with 2 doors   
+ 
+ List after deleting Ford 
+ Chevy  with 3 doors   Ford  with 4 doors   GMC  with 2 doors   RAM  with 2 doors   
+ 
+ Processing Planes now. 
+4 doors 4 engines by  Cessna,  2 doors 1 engines by  Piper,  3 doors 6 engines by  Boeing,   Chevy  with 3 doors   Ford  with 4 doors   GMC  with 2 doors   RAM  with 2 doors   
+
